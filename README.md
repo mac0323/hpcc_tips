@@ -1,4 +1,4 @@
-# HPCC_Tips
+# TTU_HPCC_Tips
 Tips for Texas Tech University [High Performance Computing Center](http://www.depts.ttu.edu/hpcc/) users.
 
 Software:

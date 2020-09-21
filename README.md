@@ -1,5 +1,5 @@
 # HPCC_Tips
-Tips on TTU HPCC usage
+Tips for Texas Tech University [High Performance Computing Center](http://www.depts.ttu.edu/hpcc/) users.
 
 Software:
 * [WinSCP](https://winscp.net/eng/download.php)
